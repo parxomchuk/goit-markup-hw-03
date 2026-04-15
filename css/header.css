@@ -1,0 +1,127 @@
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style-type: none;   
+}
+
+/* Top Line */
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.33;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+.logo-web {
+    color: #4D5AE5;
+}
+.logo-studio {
+    color: #2E2F42;
+}
+.logo-studio-white {
+    color: #F4F4FD;
+}
+.menu-nav a {
+    color: #2E2F42;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.33;
+    letter-spacing: 2%;
+    text-decoration: none;
+}
+.menu-nav a:hover {
+    color: #404BBF;
+}
+.contacts a {
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    text-decoration: none;
+}
+.contacts a:hover {
+    color: #404BBF;
+}
+/* Hero */
+.hero {
+    background-color: #2E2F42;
+}
+.hero-text {
+    color: #ffffff;
+    font-size: 56px;
+    line-height: 1.11;
+    letter-spacing: 2%;
+    text-align: center;
+}
+.hero-button {
+    background-color: #4D5AE5;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 4%;
+    box-shadow: 0px 4px 4px 0px #00000026;
+}
+/*Section 1*/
+.glav {
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2E2F42;
+}
+.team {
+    background-color: #F4F4FD;
+}
+.section-team {
+    background-color: #ffffff;
+}
+.team-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    text-align: center;
+}
+.team-heading {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2E2F42;
+}
+.footer {
+    background-color: #2E2F42;
+}
+/*Footer*/
+.footer-text {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color: #F4F4FD;
+}
+.portfolio-head {
+    color: #2E2F42
+}
