@@ -4,8 +4,9 @@
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
+        color: #2E2F42;
 }
-portfolio-head {
+.portfolio-head {
     font-weight: 500;
     font-style: normal;
     font-size: 20px;
