@@ -1,6 +1,5 @@
 .heading {
     font-weight: 700;
-    font-style: Bold;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -13,7 +12,6 @@
 }
 
 .section-team {
-    background-color: #ffffff;
     list-style: none
 }
 
@@ -28,8 +26,11 @@
 .team-heading {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.5;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
+}
+.team-png {
+    background-color: #ffffff;
 }
