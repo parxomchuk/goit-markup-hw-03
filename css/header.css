@@ -7,7 +7,7 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
-    padding-right: 76px;
+    margin-right: 76px;
 }
 
 .header {
@@ -33,6 +33,7 @@ border-bottom: 1px solid #E7E9FC;
     letter-spacing: 0.02em;
     text-decoration: none;
 }
+
 .menu-nav a:hover,
 .menu-nav a:focus {
     color: #404BBF;
@@ -54,20 +55,23 @@ border-bottom: 1px solid #E7E9FC;
 
 .header-container {
     display: flex;
-    justify-content: space-between;
     align-items: center;
 }
 
 .menu-nav-link {
     display: flex;
     gap: 40px;
-    flex-direction: row;
-    padding: 24px 0;
-    margin-right: 332px;
 }
 
 .contacts-list {
     display: flex;
     gap: 40px;
-    flex-direction: row;
+}
+
+.header-container > a {
+    padding: 24px 0;
+}
+
+.contacts {
+    margin-left: auto;
 }
