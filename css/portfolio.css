@@ -19,8 +19,8 @@
 .section-portfolio {
     display: flex;
     flex-wrap: wrap;
-    gap: 24px;
     padding-top: 72px;
+    gap: 24px;
     row-gap: 48px;
 }
 
@@ -36,4 +36,5 @@
 }
 
 .portfolio-png {
+    width: calc((100% - 48px) / 3);
 }
